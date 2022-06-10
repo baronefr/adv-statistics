@@ -1,2 +1,5 @@
 # remove all Jupyter cache folder
 **/.ipynb_checkpoints
+
+# heavy data
+rlab04/data/
