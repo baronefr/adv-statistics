@@ -6,13 +6,22 @@ This repository contains the weekly exercises for the *Advanced statistics for P
 ### Table of contents
 
 - rlab01
-    - R & exploratory data analysis
+    - R & dataset exploration
 - rlab02
     - basics of probability distributions
 - rlab03
     - test of Markov and Čebyšëv's inequalities
-    - six boxes model inference (full anual & simulated demo)
-
+    - six boxes model inference (full manual & simulated demo)
+- rlab04
+    - random number generator (middle square algorithm)
+    - Bernoulli bayesian inference
+- rlab05
+    - Poisson process bayesian inference
+    - lighthouse problem (2 unknown parameters)
+    - signal over background inference
+- rlab06
+    - frequentist vs bayesian hypotesis test
+    - Markov Chain Monte Carlo examples with JAGS
 
 ***
 
