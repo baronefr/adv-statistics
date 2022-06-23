@@ -3,3 +3,6 @@
 
 # heavy data
 rlab04/data/
+
+# archives
+*.7z

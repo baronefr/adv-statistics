@@ -1,0 +1,13 @@
+model {
+    # data likelihood
+    for (i in 1:n) {
+        X[i] ~ dpois(lambda);
+    }
+
+
+    # uniform prior
+    lambda ~ dexp(0.00001);
+    
+    # predicted data, given lambda
+    Y ~ dpois(lambda);
+}
